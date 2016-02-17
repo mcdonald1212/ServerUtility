@@ -24,6 +24,9 @@ Currently the settings are configured to search the following locations:
    loc1_disabled - LDAP://OU=DISABLED,OU=loc1,DC=yourdomain,DC=com
    loc2_disabled - LDAP://OU=DISBALED,OU=loc2,DC=yourdomain,DC=com
 
+<<<<<<< HEAD
 Additional comments:
 Need to configure settings.settings with LDAP paths to Domain Controller
 
+=======
+>>>>>>> c431893932b2ca72f7e885f59d6d3620321c75a2
