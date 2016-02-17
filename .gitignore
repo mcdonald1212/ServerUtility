@@ -45,3 +45,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Untracked files:
+# ignore .vs folder and files
+.vs/
+# ignore generated bin and obj folders and files
+ServerUserCleanup/bin/
+ServerUserCleanup/obj/
